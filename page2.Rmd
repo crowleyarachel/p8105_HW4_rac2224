@@ -1,5 +1,5 @@
 ---
-title: "Rachel Crowley's Website "
+title: "Rachel Crowley's Resume "
 author: "Rachel Crowley"
 output:  
     html_document:
@@ -8,6 +8,4 @@ output:
     theme: cerulean
 ---
 
-## Homepage  
-
-[resume](page2.html)
+## Resume 
