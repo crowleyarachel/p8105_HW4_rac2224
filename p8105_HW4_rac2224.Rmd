@@ -16,26 +16,56 @@ output:
 ### My name is Rachel and I am a second year MPH student in epidemiology at Mailman School of Public Health. I moved to NYC a year ago for school after 5 years living in Berkeley, CA and 15 years in WA state. 
 
 
+
+
 ### This is my face 
+
+
+
 <img src="images/image1.jpg" style="width:75%">
 
 
+
+
 ### I am an aspiring infectious disease epidemiologist (with a healed foot!)
+
+
+
+
 <img src="images/image2.jpeg" style="width:75%">
+
+
+
 
 
 ### Here are some of my family:
 
 
+
+
 ### Fluffy the cat
+
+
+
+
 <img src="images/image3.jpeg" style="width:75%">
 
 
+
+
 ### My mom and me 
+
+
+
+
 <img src="images/image4.jpeg" style="width:75%">
 
 
+
+
 ### Want to know more? Take a look at my [resume](page2.html)! 
+
+
 
 
 

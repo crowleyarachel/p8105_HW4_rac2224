@@ -1,4 +1,5 @@
 ---
+title: "Rachel Crowley's Resume "
 output:  
     html_document:
     toc: true
@@ -6,4 +7,138 @@ output:
     theme: cerulean
 ---
 
-## Rachel Crowley's Resume 
+
+
+
+### Education
+
+Mailman School of Public Health, Columbia University | New York, NY | Master of Public Health in Epidemiology, Certificate in Infectious Disease Epidemiology | Expected May 2020 
+
+University of California, Berkeley | Berkeley, CA | Bachelor of Arts in Public Health, Honors | May 2018
+
+Study Abroad Programs: 
+
+* Tokyo and Seoul (June – July 2017)
+* University College Dublin, Dublin (June – August 2016)
+* Thammasat University, Rangsit (June – August 2015)                                                                
+
+
+
+### Research Experience 
+
+UC Berkeley School of Social Welfare | Berkeley, CA | Research Apprentice, Public Health Honors Thesis | August 2017 – August 2018 
+
+*	Completed an honors thesis on fertility decision making among Latinx couples and used Stata for regression analyses 
+
+Sexual Health and Reproductive Equity Program (SHARE) | Berkeley, CA | Research Apprentice | September 2016 – May 2017
+
+*	Supported tool development and data collection on contraception access post passage of SB-493, performed data cleaning 
+
+UC Berkeley School of Public Health | Berkeley, CA | Research Apprentice | September 2015 – May 2016 
+
+*	Conducted a literature review of UN Resolution 64/292 and collaborated with team members to develop a story map with ArcGIS to track global water and sanitation accessibility; mentored the first cohort of apprentices on the project
+
+
+
+
+### Community Health Experience 
+
+New York City Department of Health and Mental Hygiene  | New York, NY | College Aide, Bureau of Immunization, Surveillance Unit | September 2019 – Present 
+
+*	Monitoring completeness and timeliness of  vaccine preventable disease surveillance indicator reports, including assessment of missing and unknown data fields 
+
+*	Developing a SAS program to measure trends in completeness of race and gender data within surveillance tracking systems for vaccine preventable diseases 
+
+New York City Department of Health and Mental Hygiene | New York, NY | HRTP Graduate Intern, Bureau of HIV, Division of Disease Control | April 2019 – August 2019
+
+*	Assisted with public communications and facilitating partnerships with community based agencies for New York Knows HIV testing initiative 
+
+*	Conducted street intercept survey data collection and preliminary analysis of outreach event evaluation data 
+*	Created a map to display HIV and concurrent HIV/AIDS diagnoses in the Bronx, and distribution of community resources for developing a strategy to leverage community partnerships for increased HIV testing and linkage to care  
+
+Diaspora Community Services | New York, NY | Intern for HIV Programs | February 2019 – May 2019  
+
+*	Performed community outreach and recruitment for evidence based  interventions to encourage safe sex practices, healthy relationships, and PEP/PrEP awareness 
+
+*	Assessed client knowledge of risk behaviors associated with HIV transmission and analyzed intervention effectiveness 
+
+Health Leads | San Pablo, CA | Advocate | August 2016 – August 2018 
+
+*	Connected families with social resources to address health inequities using Health Leads REACH technology 
+
+*	Managed a thirty client caseload with weekly follow-up; performed clinical integration and communication using EMR
+
+Program Coordinator | January 2016 – May 2018      
+
+*	Supervised advocates and provided active case support via case audits to promote best client-advocate interactions
+
+*	Planned and facilitated advocate reflection groups and staff training sessions; implemented a new team based protocol
+
+University Health Services | Berkeley, CA | Health Worker | August 2015 – May 2018  
+
+*	Provided health promotion advising, referrals, media outreach, and first-aid care to over 600 international students 
+*	Led community based participatory research on sexual violence prevention; developed weekly community health reports
+
+
+
+
+### Global Health Experience 
+
+Global Alliance for Incinerator Alternatives | Berkeley, CA | Communications, Project Support, and Administrative Assistant | September 2016 – May 2017
+
+*	Developed reports, databases, and factsheets on hazardous plant violations, environmental health, and justice issues
+
+*	Supported fundraising, donation logs, and publicity efforts such as website creation using Salesforce and WordPress   
+
+European Institute of Women’s Health | Dublin, Ireland | Intern | June 2016 – August 2016  
+
+*	Developed a policy brief on gestational diabetes mellitus to inform policy and combat gender disparities in research
+
+*	Collaborated with representatives from maternal health organizations and performed literature review for meeting reports 
+
+Mae Tao Clinic and Thammasat University | Mae Sot, Thailand | Field Research Team Member | June – August 2015 
+
+*	Conducted interviews with displaced families and health officials on  the Thai-Myanmar border regarding health access 
+
+*	Devised a human-centered proposal to improve health care access in border regions; presented results to stakeholders
+
+
+
+
+
+### Health Education Experience 
+
+Graduate Teaching Assistant | New York, NY | TA for Research Methods and Applications, Quantitative Foundations | September 2019 – Present   
+
+*	Leading a lab section of 25 first year MPH students to teach introductory epidemiological methods including quantitative analysis and research design 
+
+*	Assisting faculty in conducting the course for over 450 students, including piloting homework materials, performing grading, and conducting classroom management 
+
+Bloom Mentorship Program | New York, NY | Health Educator | September 2018 – Present   
+
+*	Providing weekly peer advising and health curriculum to 6th -8th  grade girls in Washington Heights on topics such as reproductive health, healthy friendships, and mental health
+
+Peer Health Exchange | Oakland, CA | Health Educator | September 2015 – February 2018  
+
+*	Taught skills-based health curriculum on sexual health and substance use within under-resourced high schools 
+*	Performed classroom management and facilitated discussions on healthy decision making to empower students 
+
+
+
+
+### Skills and Certifications 
+
+*	Software:  Knowledge of statistical applications, including Stata and SAS, Qualtrics, Microsoft Office, and patient record systems including Epic EMR. Knowledge of ArcGIS and citation management software such as Refworks and Zotero. 
+
+*	Research: Experience with qualitative and quantitative research design and analysis, human centered design, community based participatory research, and database work including Biosis, PubMed, Plosone, ProQuest, and the NCBI genome 
+
+*	Certifications: CITI Human Subjects Protection, HIPAA Patient Privacy, Mandated Reporter Training,  HIV/AIDS Confidentiality Training 
+
+*	Other Computer Skills: Knowledge of Airtable, Trello, Slack, WordPress, Mailchimp, and Salesforce
+
+*	Language skills: Conversant in French speaking, writing, and reading 
+
+
+
+
+
