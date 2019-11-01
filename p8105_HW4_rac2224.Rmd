@@ -66,6 +66,14 @@ output:
 ### Want to know more? Take a look at my [resume](page2.html)! 
 
 
+library(tidyverse)
+library(viridis)
+library(p8105.datasets)
+
+library(plotly)
+
+
+
 
 
 
