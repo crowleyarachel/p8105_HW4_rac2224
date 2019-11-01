@@ -1,6 +1,4 @@
 ---
-title: "Rachel Crowley's Resume "
-author: "Rachel Crowley"
 output:  
     html_document:
     toc: true
